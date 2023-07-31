@@ -74,6 +74,12 @@ ul{
     margin-top: 10px;
 }
 
+.header > .bottom > .left-links > .source{
+    width: 400px;
+    text-align: end;
+    font-size: small;
+}
+
 .header > .bottom > .left-links > button{
     background-color: #3882f6;
     font-size: 20px;
