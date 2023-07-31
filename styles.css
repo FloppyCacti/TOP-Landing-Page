@@ -152,6 +152,15 @@ ul{
     align-items: center;
 }
 
+.quote > .text {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote > .text > h4 {
+    text-align: end;
+}
+
 .content > .banner{
     flex: 1;
     display: flex;
